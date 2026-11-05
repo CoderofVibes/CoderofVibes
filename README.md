@@ -8,7 +8,7 @@ By day I'm an engineer at an advanced nuclear reactor startup. I'm also a dad, s
 
 | [**Domoy**](https://github.com/CoderofVibes/Domoy-DevLog) | [**Cerebro**](https://github.com/CoderofVibes/Cerebro) |
 |---|---|
-| [![The rail yard's brick water tower at night, lit by a small fire](images/domoy-water-tower.jpg)](https://github.com/CoderofVibes/Domoy-DevLog) | [![A fight replayed as a glowing wireframe hologram of city streets](images/cerebro-hologram.jpg)](https://github.com/CoderofVibes/Cerebro) |
+| [![A wet cobbled avenue under a full moon, a broken arch over the street](images/domoy-avenue.jpg)](https://github.com/CoderofVibes/Domoy-DevLog) | [![A fight replayed as a wireframe hologram of the hotel courtyard, a sniper's purple view cone sweeping across it](images/cerebro-courtyard.jpg)](https://github.com/CoderofVibes/Cerebro) |
 | A single-player, story-led first-person game set during the Battle of Stalingrad, made solo in Unreal Engine 5 and Blender. | A 3D replay and analysis lab for simulated combat. Every playtest comes back as a hologram you can scrub, inspect and ask questions of. |
 
 Along the way I've built my own tooling too: an MCP bridge so AI can drive the Unreal editor, and a pile of build and check scripts.
